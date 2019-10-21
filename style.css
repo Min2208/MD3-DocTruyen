@@ -1,0 +1,87 @@
+.main{
+    width: 100%;
+
+}
+.head{
+    width: 100%;
+    height: 70px;
+    background: lavender;
+    margin-bottom: 5px;
+}
+.head-link{
+    width: 100%;
+    height: 50px;
+    background: lavender;
+    margin-bottom: 5px;
+}
+.menu-left{
+    width: 15%;
+    height: 700px;
+    background: lavender;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.content{
+    width: 84.6%;
+    height: 700px;
+    background: lavender;
+    float: left;
+    margin-bottom: 5px;
+}
+.footer{
+    width: 100%;
+    height: 30px;
+    clear: both;
+    background: lavender;
+}
+
+#search{
+    float: right;
+    position: relative;
+    top: 20px;
+    width: 400px;
+    height: 25px;
+    right: 30px;
+    border-radius: 5px;
+}
+#submit{
+    float: right;
+    position: relative;
+    top: 20px;
+    height: 30px;
+    right: 30px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    width: 125px;
+    position: relative;
+    float: left;
+    padding: 15px 35px 15px 35px;
+    left: 50px;
+
+}
+.menu:hover{
+    background-color: antiquewhite;
+}
+.menu-left-list{
+    padding:25px 0 25px 15px;
+}
+.menu-left-list:hover{
+    background-color: antiquewhite;
+}
+.content-item{
+    background: aqua;
+    width: 15%;
+    float: left;
+    height: 44%;
+    margin: 30px 35px 10px 35px;
+    position: relative;
+}
+p{
+    position: absolute;
+    bottom: 0;
+}
